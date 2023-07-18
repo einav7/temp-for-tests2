@@ -1,0 +1,3 @@
+steps:
+  - label: ":hammer: with pipeline"
+    command: "echo command in yml"
