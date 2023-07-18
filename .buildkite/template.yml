@@ -1,0 +1,6 @@
+name: "Templeton"
+description: "whatevs"
+emoji: ":bash:"
+steps:
+  - command: "buildkite-agent pipeline upload"
+    label: ":pipeline:"
